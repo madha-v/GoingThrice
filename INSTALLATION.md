@@ -68,7 +68,6 @@ mongosh
 3. Get connection string
 4. Update `.env` with:
 ```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/goingthrice
 ```
 
 ### PostgreSQL Setup
