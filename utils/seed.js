@@ -292,4 +292,7 @@ async function seedDatabase() {
   }
 }
 
+process.exit(1);
+}
+
 seedDatabase();
